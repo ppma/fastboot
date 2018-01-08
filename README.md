@@ -10,7 +10,8 @@ unlock or lock bootloader for vivo(bbk) devices
 
 ```
 $ cd system/core
-$ git clone git@github.com:ppma/fastboot.git
+$ git clone git@github.com:ppma/fastboot.git fastboot_vivo
+$ cd fastboot_vivo
 $ mm
 ```
 
